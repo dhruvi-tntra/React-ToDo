@@ -21,7 +21,7 @@
 .input-wrapper .add-button {
   padding: 10px 20px;
   border: none;
-  background-color: #28a745;
+  background-color: #186be7;
   color: white;
   border-radius: 4px;
   font-size: 16px;
@@ -30,7 +30,7 @@
 }
 
 .input-wrapper .add-button:hover {
-  background-color: #218838;
+  background-color: #186be7;
 }
 
 /* Styles for the todo list */
@@ -69,7 +69,7 @@
 .completed-button {
   padding: 5px 10px;
   border: none;
-  background-color: #dc3545;
+  background-color: #218838;
   color: white;
   border-radius: 4px;
   font-size: 14px;
